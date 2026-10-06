@@ -15,6 +15,7 @@ The project follows a workflow from data preparation and exploratory analysis to
 
 | File | Purpose |
 | --- | --- |
+| [cervical-cancer_csv.csv](./cervical-cancer_csv.csv) | Input dataset used by the preparation notebook. |
 | [data_prep_visualisation.ipynb](./data_prep_visualisation.ipynb) | Data cleaning, exploratory analysis, visualisation, and export of the cleaned dataset. |
 | [prediction_model.ipynb](./prediction_model.ipynb) | Feature scaling, model training, evaluation, comparison, and model export. |
 
