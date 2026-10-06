@@ -1,4 +1,3 @@
-README
 # Cervical Cancer Prediction Model
 
 ## Description
